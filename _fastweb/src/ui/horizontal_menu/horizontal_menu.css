@@ -1,0 +1,45 @@
+/* Menú horizontal y sesión */
+
+#menu_h {
+
+	background-color:#135F6D; 
+	background-image:url(./horizontal_menu_bg2.jpg); background-repeat:repeat-x;
+    overflow: visible;
+    clear:both;
+
+}
+#menu_items {
+  float:left; 
+  padding: 6px 0 5px 5px;
+  /* width:520px; */ 
+  margin-left: 15px; 
+  font-weight: bold;
+  text-shadow: 2px 2px 3px #0C3B44;
+  font-size: 12px;
+  letter-spacing: 0.09em; 
+  font-family: Arial,sans-serif
+}
+#menu_items a { 
+	color: white;  display:block; float: left; padding: 2px 18px;
+	border:1px solid transparent;
+}
+#menu_items a.selected { 
+	border: 1px solid #FFF;
+	border-collapse:collapse;
+	text-decoration: none; 
+	background-color: #F0F0F0; 
+	color: #135F6D;
+	text-shadow: 2px 2px 3px #C3C3C3;
+	
+}
+#menu_items a.selected:hover {
+	/* background-color:#EA7C1B;*/ 
+}
+#menu_items a:hover { 
+	border-color: #FFF; 
+	text-decoration: none; 
+	background-color: #FFF; 
+	color: #135F6D; 
+	text-shadow: 2px 2px 3px #C3C3C3;
+}
+

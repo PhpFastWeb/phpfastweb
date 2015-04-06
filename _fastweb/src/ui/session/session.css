@@ -1,0 +1,89 @@
+/* ------------------------------------ */
+#sesion {
+	float:right;
+	padding: 5px 0 0 12px;
+	/*min-width: 180px;*/
+	 
+	position:relative;
+	height: 20px;
+	background: #127C8C url(./session2.jpg);
+	font-size:11px;
+	/* color: white; */
+}
+
+
+
+#sesion a { color: #135F6D; }
+
+#sesion>a.sesion_a_but { 
+	color: white;  
+}
+#sesion_usuario a { color: #F2EEB7; }
+#sesion_cerrar a { color: #F2EEB7; }
+
+#sesion a:hover { color: #F2EEB7; }
+
+#sesion_usuario {
+	float:left;
+}
+
+#sesion_cerrar { float:left; margin-left:10px; }
+a.sesion_a_but {
+	font-size:11px;
+	display:block;
+	float:right;
+	padding: 5px 4px 4px 8px;
+	margin: -4px 0px 0 0;
+	font-weight:bold;
+
+}
+a.sesion_a_but:hover {
+	text-decoration: none;
+	background-color: #1CB0BA;
+	color: white;
+	
+}
+#sesion_float {
+	position:relative;
+	/*
+	margin-left:90px;
+
+	margin-top:19px;
+	//margin-top:0px;
+	*/
+	top:18px;
+	right:0px;
+	width:174px; 
+	text-align:left; 
+	border:1px solid #1CB0BA; 
+	background-color:white;     
+}
+
+#peek_menu_div {
+   	position:relative;
+	margin-left:10px; 
+	margin-top:6px;
+	//margin-top:0px;
+	width:188px; 
+
+    z-index: 1000;
+
+}
+
+a.sesion_a_bar {
+	border-top: 1px solid transparent;
+	border-bottom: 1px solid transparent;
+	display:block;
+	width: 160px;
+	font-weight:bold;
+	padding: 3px 7px;
+
+}
+a.sesion_a_bar:hover {
+	text-decoration: none;
+	background-color: #1CB0BA;
+	border-top: 1px solid #05889A;
+	border-bottom: 1px solid #05889A;
+	color: white;
+
+}

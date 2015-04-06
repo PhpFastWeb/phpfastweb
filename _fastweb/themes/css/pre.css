@@ -1,0 +1,10 @@
+/* Remarcamos código preformateado */
+pre {
+ 	background-color:#FFFFC2; 
+ 	border: 1px solid lightgrey; 
+ 	margin: 5px 5px 5px 5px;
+ 	padding: 2px 2px 2px 2px;
+}
+pre b {
+	background-color: #FBFB83;
+}

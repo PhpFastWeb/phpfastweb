@@ -1,0 +1,29 @@
+/* Login */
+
+#form_login #username, #form_login  #password { 
+    width:150px; margin-right: 85px; 
+}
+
+#label_id, #label_password { 
+    width: 92px; display:inline-block; text-align:right; margin-right:5px; 
+}
+.login_submit { 
+    width:120px; height: 25px; font-size:13px; margin-top:7px; 
+}
+
+
+.login_div {
+    text-align: center;  
+    margin:0 auto; 
+    display: inline-block;
+}
+
+#form_logout.logout_form {
+    margin:0 0 0 0;
+}
+.header_user_info_name {
+    margin: 30px 0 0 3px;
+    width: 200px; 
+    float: right;
+    font-size: 11px;
+}

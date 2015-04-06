@@ -1,0 +1,101 @@
+Issues
+------
+
+
+Changes
+-------
+
+2)
+Deprecated defining default theme
+website::$theme = new theme_config('modern');
+
+4)
+layout template auto insert html
+
+5)
+Timezone moved from functions to localization
+
+6)
+Change references from "breadcrums" to "breadcrumbs"
+
+7)
+Deprecate table_data::__echo, make __toString able to return table data representation.
+
+8)
+columns_auto_type moved to phpcopilot
+
+9) auto_dictionary class moved to phpcopilot
+
+10) table_data::permissions deprecated
+
+11) new ACL permissions system
+
+12) Use header redirect for POST processing, so BACK can't be used to repost a form
+
+13) Use directly of pagination class, related properties on that class
+
+14) Use directly of filter class, related properties on that class
+
+Things to deprecate in 0.2
+--------------------------
+These things have been maintained in spite of not breaking existing applications, and should be deprecated.
+
+1)
+* Setting website::$current_page->user_allowed_groups = array(...);
+
+2)
+process_session_var()
+
+3)
+Measure file_size speed, and require_once, and replace them if that's useful
+
+4)
+
+Make locale and timezone properties inside website object
+
+5)
+Don't use themes, propagate files in UI webobject classes
+
+6)
+table_data::$columns_units
+public $columns_limit_len = array();
+public $columns_width = array();
+public $columns_max_len = array();
+public $columns_align = array();
+public $columns_options_properties = array();
+public $columns_auto_type = true;
+
+public $columns_new_value = array();
+
+public $columns_help_insert = array();
+public $sql_source = '';
+public $relations = null;
+public $field_definitions = null;
+public $db = null;
+public $table_data = null;
+
+
+7) table_data_priv
+
+
+Done
+----
+1) Can use relative or full path for cache::add_dir_to_autoload
+
+1)
+
+user fields are mapped to english versions of the names:
+
+	website::$user->user_table_columns = array(
+		'id' => 'id' ,
+		'password'  => 'password',
+		'grupo'     => 'grupo',
+		'nombre'    => 'nombre',
+		'apellidos' => 'apellidos',
+		'email'     => 'email',
+		'telefono'  => 'telefono',
+		'municipio' => 'municipio'
+	);
+    
+3)
+Auto allowed user check for load_layout

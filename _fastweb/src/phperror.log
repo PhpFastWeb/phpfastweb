@@ -1,0 +1,547 @@
+[09-Jan-2015 02:22:55 Europe/Madrid] PHP Notice:  Undefined property: logro::$min_plata in C:\www\escano110\_logic\logro.class.php on line 56
+[09-Jan-2015 02:23:25 Europe/Madrid] PHP Fatal error:  Call to undefined method logro::info_progress() in C:\www\escano110\_logic\item_avotable.class.php on line 158
+[09-Jan-2015 02:23:36 Europe/Madrid] PHP Notice:  Undefined property: logro::$min_plata in C:\www\escano110\_logic\logro.class.php on line 56
+[09-Jan-2015 12:41:38 Europe/Madrid] PHP Fatal error:  Class 'users_register' not found in C:\www\escano110\perfil\index.php on line 4
+[10-Jan-2015 12:52:14 Europe/Madrid] PHP Fatal error:  Class 'users_register' not found in C:\www\escano110\perfil\index.php on line 4
+[10-Jan-2015 12:56:55 Europe/Madrid] PHP Fatal error:  Class 'validation_min_length' not found in C:\www\escano110\_logic\users_register.class.php on line 44
+[10-Jan-2015 12:56:58 Europe/Madrid] PHP Fatal error:  Class 'validation_min_length' not found in C:\www\escano110\_logic\users_register.class.php on line 44
+[10-Jan-2015 18:16:41 Europe/Madrid] PHP Fatal error:  Call to undefined method users_register::autocomplete() in C:\www\escano110\_fastweb\src\columns\column_text\column_text.class.php on line 48
+[10-Jan-2015 18:46:50 Europe/Madrid] mail to:mordraug@gmail.com from:no-reply@proyecto-messe.com subject:Activación cuenta de usuario
+
+[10-Jan-2015 18:46:50 Europe/Madrid] mail to:vicenteherrera@vicenteherrera.com from:no-reply@proyecto-messe.com subject:Activación cuenta de usuario
+
+[10-Jan-2015 18:48:13 Europe/Madrid] mail to:mordraug@mordraug.com from:no-reply@proyecto-messe.com subject:Activación cuenta de usuario
+
+[10-Jan-2015 18:48:13 Europe/Madrid] mail to:vicenteherrera@vicenteherrera.com from:no-reply@proyecto-messe.com subject:Activación cuenta de usuario
+
+[10-Jan-2015 18:53:24 Europe/Madrid] PHP Notice:  Undefined variable: email_activation_from in C:\www\escano110\_logic\users_register.class.php on line 101
+[10-Jan-2015 18:53:24 Europe/Madrid] mail to:prueba2@mordraug.com from: subject:Activación cuenta de usuario
+
+[10-Jan-2015 18:53:24 Europe/Madrid] PHP Notice:  Undefined variable: email_activation_from in C:\www\escano110\_logic\users_register.class.php on line 104
+[10-Jan-2015 18:53:24 Europe/Madrid] mail to:vicenteherrera@vicenteherrera.com from: subject:Activación cuenta de usuario
+
+[12-Jan-2015 23:28:11 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\my_web_header.class.php on line 9
+[12-Jan-2015 23:33:27 Europe/Madrid] PHP Warning:  Creating default object from empty value in C:\www\escano110\_logic\users_register.class.php on line 44
+[12-Jan-2015 23:33:27 Europe/Madrid] PHP Warning:  Creating default object from empty value in C:\www\escano110\_logic\users_register.class.php on line 44
+[12-Jan-2015 23:35:24 Europe/Madrid] PHP Warning:  Creating default object from empty value in C:\www\escano110\_logic\users_register.class.php on line 44
+[12-Jan-2015 23:35:24 Europe/Madrid] PHP Warning:  Creating default object from empty value in C:\www\escano110\_logic\users_register.class.php on line 44
+[12-Jan-2015 23:49:08 Europe/Madrid] PHP Warning:  require(check_user.inc.php): failed to open stream: No such file or directory in C:\www\escano110\perfil\nueva_ilp.php on line 13
+[12-Jan-2015 23:49:08 Europe/Madrid] PHP Fatal error:  require(): Failed opening required 'check_user.inc.php' (include_path='.;C:\php\pear') in C:\www\escano110\perfil\nueva_ilp.php on line 13
+[12-Jan-2015 23:49:41 Europe/Madrid] PHP Warning:  require(check_user.inc.php): failed to open stream: No such file or directory in C:\www\escano110\perfil\nueva_ilp.php on line 13
+[12-Jan-2015 23:49:41 Europe/Madrid] PHP Fatal error:  require(): Failed opening required 'check_user.inc.php' (include_path='.;C:\php\pear') in C:\www\escano110\perfil\nueva_ilp.php on line 13
+[12-Jan-2015 23:49:58 Europe/Madrid] PHP Fatal error:  Using $this when not in object context in C:\www\escano110\_fastweb\src\columns\column_text\column_date.class.php on line 95
+[16-Jan-2015 10:13:42 Europe/Madrid] PHP Notice:  Undefined property: web_page::$command_name in C:\www\escano110\participa.php on line 55
+[16-Jan-2015 10:16:08 Europe/Madrid] PHP Notice:  Undefined variable: email_activation_from in C:\www\escano110\_logic\users_register.class.php on line 108
+[16-Jan-2015 10:16:08 Europe/Madrid] mail to:vicenteherrera+prueba2@vicenteherrera.com from: subject:Activación cuenta de usuario
+
+[16-Jan-2015 10:16:08 Europe/Madrid] PHP Notice:  Undefined variable: email_activation_from in C:\www\escano110\_logic\users_register.class.php on line 111
+[16-Jan-2015 10:16:08 Europe/Madrid] mail to:vicenteherrera@vicenteherrera.com from: subject:Activación cuenta de usuario
+
+[20-Jan-2015 16:20:09 Europe/Madrid] PHP Warning:  date() expects at least 1 parameter, 0 given in C:\www\escano110\_logic\item_avotable_lista.class.php on line 55
+[20-Jan-2015 16:20:09 Europe/Madrid] PHP Warning:  date() expects at least 1 parameter, 0 given in C:\www\escano110\_logic\item_avotable_lista.class.php on line 55
+[20-Jan-2015 16:20:09 Europe/Madrid] PHP Warning:  date() expects at least 1 parameter, 0 given in C:\www\escano110\_logic\item_avotable_lista.class.php on line 55
+[20-Jan-2015 16:20:09 Europe/Madrid] PHP Warning:  date() expects at least 1 parameter, 0 given in C:\www\escano110\_logic\item_avotable_lista.class.php on line 55
+[20-Jan-2015 16:20:09 Europe/Madrid] PHP Warning:  date() expects at least 1 parameter, 0 given in C:\www\escano110\_logic\item_avotable_lista.class.php on line 55
+[20-Jan-2015 16:20:09 Europe/Madrid] PHP Warning:  date() expects at least 1 parameter, 0 given in C:\www\escano110\_logic\item_avotable_lista.class.php on line 55
+[20-Jan-2015 16:22:03 Europe/Madrid] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in C:\www\escano110\_logic\item_avotable_lista.class.php on line 60
+[20-Jan-2015 16:26:14 Europe/Madrid] PHP Notice:  Undefined offset: 5 in C:\www\escano110\_fastweb\src\columns\column_text\column_datetime.class.php on line 63
+[20-Jan-2015 16:26:14 Europe/Madrid] PHP Notice:  Undefined offset: 5 in C:\www\escano110\_fastweb\src\columns\column_text\column_datetime.class.php on line 63
+[20-Jan-2015 16:26:14 Europe/Madrid] PHP Notice:  Undefined offset: 5 in C:\www\escano110\_fastweb\src\columns\column_text\column_datetime.class.php on line 63
+[20-Jan-2015 16:51:30 Europe/Madrid] PHP Notice:  Undefined property: DateInterval::$l in C:\www\escano110\_logic\item_avotable_base.class.php on line 28
+[20-Jan-2015 18:17:52 Europe/Madrid] PHP Notice:  Undefined variable: data in C:\www\escano110\_fastweb\src\table\aitem.class.php on line 9
+[20-Jan-2015 18:17:52 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 18
+[20-Jan-2015 18:17:52 Europe/Madrid] PHP Notice:  Undefined variable: data in C:\www\escano110\_fastweb\src\table\aitem.class.php on line 9
+[20-Jan-2015 18:17:52 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 18
+[20-Jan-2015 18:17:52 Europe/Madrid] PHP Notice:  Undefined variable: data in C:\www\escano110\_fastweb\src\table\aitem.class.php on line 9
+[20-Jan-2015 18:17:52 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 18
+[20-Jan-2015 18:17:52 Europe/Madrid] PHP Notice:  Undefined variable: data in C:\www\escano110\_fastweb\src\table\aitem.class.php on line 9
+[20-Jan-2015 18:17:52 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 18
+[20-Jan-2015 18:17:52 Europe/Madrid] PHP Notice:  Undefined variable: data in C:\www\escano110\_fastweb\src\table\aitem.class.php on line 9
+[20-Jan-2015 18:17:52 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 18
+[20-Jan-2015 18:17:52 Europe/Madrid] PHP Notice:  Undefined variable: data in C:\www\escano110\_fastweb\src\table\aitem.class.php on line 9
+[20-Jan-2015 18:17:52 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 18
+[20-Jan-2015 18:18:41 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 18
+[20-Jan-2015 18:18:41 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 18
+[20-Jan-2015 18:18:41 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 18
+[20-Jan-2015 18:18:41 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 18
+[20-Jan-2015 18:18:41 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 18
+[20-Jan-2015 18:18:41 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 18
+[20-Jan-2015 18:21:36 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 19
+[20-Jan-2015 18:21:36 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 19
+[20-Jan-2015 18:21:36 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 19
+[20-Jan-2015 18:21:36 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 19
+[20-Jan-2015 18:21:36 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 19
+[20-Jan-2015 18:21:36 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 19
+[20-Jan-2015 18:22:44 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 18
+[20-Jan-2015 18:22:44 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 18
+[20-Jan-2015 18:22:44 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 18
+[20-Jan-2015 18:22:44 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 18
+[20-Jan-2015 18:22:44 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 18
+[20-Jan-2015 18:22:44 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 18
+[20-Jan-2015 18:22:57 Europe/Madrid] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in C:\www\escano110\_fastweb\src\table\aitem.class.php on line 12
+[20-Jan-2015 18:23:44 Europe/Madrid] PHP Fatal error:  Cannot access parent:: when current class scope has no parent in C:\www\escano110\_fastweb\src\table\aitem.class.php on line 12
+[20-Jan-2015 18:29:35 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 18
+[20-Jan-2015 18:29:35 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 18
+[20-Jan-2015 18:29:35 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 18
+[20-Jan-2015 18:29:35 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 18
+[20-Jan-2015 18:29:35 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 18
+[20-Jan-2015 18:29:35 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\item_avotable_base.class.php on line 18
+[20-Jan-2015 18:31:50 Europe/Madrid] PHP Fatal error:  Call to undefined method item_avotable::d() in C:\www\escano110\_logic\item_avotable.class.php on line 18
+[20-Jan-2015 18:32:06 Europe/Madrid] PHP Fatal error:  Cannot use object of type stdClass as array in C:\www\escano110\_logic\item_avotable.class.php on line 61
+[20-Jan-2015 18:33:47 Europe/Madrid] PHP Fatal error:  Cannot use object of type stdClass as array in C:\www\escano110\_logic\item_avotable.class.php on line 62
+[20-Jan-2015 18:34:16 Europe/Madrid] PHP Fatal error:  Cannot use object of type stdClass as array in C:\www\escano110\_logic\item_avotable.class.php on line 68
+[20-Jan-2015 18:34:35 Europe/Madrid] PHP Fatal error:  Cannot use object of type stdClass as array in C:\www\escano110\_logic\item_avotable.class.php on line 69
+[20-Jan-2015 18:34:48 Europe/Madrid] PHP Fatal error:  Cannot use object of type stdClass as array in C:\www\escano110\_logic\item_avotable.class.php on line 74
+[20-Jan-2015 18:35:02 Europe/Madrid] PHP Fatal error:  Cannot use object of type stdClass as array in C:\www\escano110\_logic\item_avotable.class.php on line 75
+[20-Jan-2015 18:36:38 Europe/Madrid] PHP Fatal error:  Cannot use object of type stdClass as array in C:\www\escano110\_logic\item_avotable.class.php on line 93
+[20-Jan-2015 18:36:51 Europe/Madrid] PHP Fatal error:  Cannot use object of type stdClass as array in C:\www\escano110\_logic\item_avotable.class.php on line 99
+[20-Jan-2015 18:37:09 Europe/Madrid] PHP Fatal error:  Cannot use object of type stdClass as array in C:\www\escano110\_logic\item_avotable.class.php on line 102
+[20-Jan-2015 18:37:26 Europe/Madrid] PHP Fatal error:  Cannot use object of type stdClass as array in C:\www\escano110\_logic\item_avotable.class.php on line 105
+[20-Jan-2015 18:39:56 Europe/Madrid] PHP Fatal error:  Cannot use object of type stdClass as array in C:\www\escano110\_logic\item_avotable.class.php on line 112
+[20-Jan-2015 18:42:15 Europe/Madrid] PHP Fatal error:  Call to undefined method item_avotable_miniatura::set_data() in C:\www\escano110\_fastweb\src\commands\external\command_table.class.php on line 100
+[20-Jan-2015 19:13:26 Europe/Madrid] PHP Notice:  Undefined variable: level in C:\www\escano110\_logic\logro.class.php on line 73
+[20-Jan-2015 19:13:49 Europe/Madrid] PHP Notice:  Undefined variable: level in C:\www\escano110\_logic\logro.class.php on line 73
+[20-Jan-2015 19:28:37 Europe/Madrid] PHP Fatal error:  Call to undefined function get_imgs_logros() in C:\www\escano110\_logic\logro.class.php on line 89
+[20-Jan-2015 19:45:36 Europe/Madrid] PHP Warning:  Missing argument 1 for logro::__construct(), called in C:\www\escano110\_logic\item_avotable_miniatura.class.php on line 36 and defined in C:\www\escano110\_logic\logro.class.php on line 18
+[20-Jan-2015 19:45:36 Europe/Madrid] PHP Notice:  Undefined variable: tipo in C:\www\escano110\_logic\logro.class.php on line 19
+[20-Jan-2015 19:46:18 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\logro.class.php on line 142
+[20-Jan-2015 19:46:18 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\logro.class.php on line 142
+[20-Jan-2015 19:46:18 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\logro.class.php on line 142
+[20-Jan-2015 19:46:18 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\logro.class.php on line 142
+[20-Jan-2015 19:46:18 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\logro.class.php on line 142
+[20-Jan-2015 19:46:18 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\logro.class.php on line 142
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Array to string conversion in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Array to string conversion in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Array to string conversion in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Array to string conversion in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Array to string conversion in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Array to string conversion in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Array to string conversion in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Array to string conversion in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Array to string conversion in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Array to string conversion in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Array to string conversion in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Array to string conversion in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Array to string conversion in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Array to string conversion in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Array to string conversion in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Array to string conversion in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Array to string conversion in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Array to string conversion in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Array to string conversion in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 17
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:03:30 Europe/Madrid] PHP Notice:  Array to string conversion in C:\www\escano110\_logic\parlamentario_item.class.php on line 18
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:06:27 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 14
+[27-Jan-2015 01:15:29 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\parlamentario_item.class.php on line 20
+[27-Jan-2015 01:15:29 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\parlamentario_item.class.php on line 20
+[27-Jan-2015 01:15:29 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\parlamentario_item.class.php on line 20
+[27-Jan-2015 01:15:29 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\parlamentario_item.class.php on line 20
+[27-Jan-2015 01:15:29 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\parlamentario_item.class.php on line 20
+[27-Jan-2015 01:15:29 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\parlamentario_item.class.php on line 20
+[27-Jan-2015 01:15:29 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\parlamentario_item.class.php on line 20
+[27-Jan-2015 01:15:29 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\parlamentario_item.class.php on line 20
+[27-Jan-2015 01:15:29 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\parlamentario_item.class.php on line 20
+[27-Jan-2015 01:15:29 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\parlamentario_item.class.php on line 20
+[27-Jan-2015 01:15:29 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\parlamentario_item.class.php on line 20
+[27-Jan-2015 01:15:29 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\parlamentario_item.class.php on line 20
+[27-Jan-2015 01:15:29 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\parlamentario_item.class.php on line 20
+[27-Jan-2015 01:15:29 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\parlamentario_item.class.php on line 20
+[27-Jan-2015 01:15:29 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\parlamentario_item.class.php on line 20
+[27-Jan-2015 01:15:29 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\parlamentario_item.class.php on line 20
+[27-Jan-2015 01:15:29 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\parlamentario_item.class.php on line 20
+[27-Jan-2015 01:15:29 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\parlamentario_item.class.php on line 20
+[27-Jan-2015 01:15:29 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\parlamentario_item.class.php on line 20
+[27-Jan-2015 01:15:29 Europe/Madrid] PHP Notice:  Undefined variable: result in C:\www\escano110\_logic\parlamentario_item.class.php on line 20
+[27-Jan-2015 01:39:53 Europe/Madrid] PHP Fatal error:  Call to undefined method stdClass::load_recursive() in C:\www\escano110\_logic\parlamentario_item.class.php on line 30
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Undefined variable: p in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Notice:  Trying to get property of non-object in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[27-Jan-2015 01:41:01 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in C:\www\escano110\_logic\parlamentario_item.class.php on line 34
+[29-Jan-2015 01:12:02 Europe/Madrid] PHP Fatal error:  Cannot use object of type parlamentario as array in C:\www\escano110\_fastweb\src\persistant\apersistant.class.php on line 504
+[29-Jan-2015 01:15:54 Europe/Madrid] PHP Fatal error:  Cannot use object of type parlamentario as array in C:\www\escano110\_fastweb\src\persistant\apersistant.class.php on line 504
+[29-Jan-2015 01:16:46 Europe/Madrid] PHP Notice:  Undefined variable: data in C:\www\escano110\_fastweb\src\table\aitem.class.php on line 22
+[29-Jan-2015 01:16:46 Europe/Madrid] PHP Notice:  Array to string conversion in C:\www\escano110\_logic\parlamentario_item.class.php on line 31
+[29-Jan-2015 01:16:46 Europe/Madrid] PHP Notice:  Undefined index:  in C:\www\escano110\_logic\parlamentario_item.class.php on line 39
+[04-Mar-2015 11:47:17 Europe/Madrid] PHP Notice:  Undefined offset: 8192 in C:\www\escano110\_fastweb\src\functions.inc.php on line 252
+[04-Mar-2015 11:47:17 Europe/Madrid] PHP Notice:  Undefined offset: 8192 in C:\www\escano110\_fastweb\src\functions.inc.php on line 256
+[04-Mar-2015 11:48:16 Europe/Madrid] PHP Notice:  Undefined offset: 8192 in C:\www\escano110\_fastweb\src\functions.inc.php on line 252
+[04-Mar-2015 11:48:16 Europe/Madrid] PHP Notice:  Undefined offset: 8192 in C:\www\escano110\_fastweb\src\functions.inc.php on line 256
+[13-Mar-2015 10:17:24 Europe/Madrid] PHP Parse error:  syntax error, unexpected ',' in C:\www\escano110\slider.inc.php on line 90
+[13-Mar-2015 10:17:54 Europe/Madrid] PHP Notice:  Undefined index: 03 in C:\www\escano110\slider.inc.php on line 90
+[13-Mar-2015 10:17:54 Europe/Madrid] PHP Notice:  Undefined index: 02 in C:\www\escano110\slider.inc.php on line 90
+[13-Mar-2015 10:17:54 Europe/Madrid] PHP Notice:  Undefined index: 02 in C:\www\escano110\slider.inc.php on line 90
+[13-Mar-2015 10:17:54 Europe/Madrid] PHP Notice:  Undefined index: 09 in C:\www\escano110\slider.inc.php on line 90
+[13-Mar-2015 10:37:29 Europe/Madrid] PHP Notice:  Use of undefined constant fecha - assumed 'fecha' in C:\www\escano110\votar.php on line 29
+[13-Mar-2015 11:56:09 Europe/Madrid] PHP Notice:  Array to string conversion in C:\www\escano110\_logic\item_avotable.class.php on line 64
+[13-Mar-2015 12:17:52 Europe/Madrid] PHP Catchable fatal error:  Object of class column_select could not be converted to string in C:\www\escano110\propuestas.php on line 18
+[13-Mar-2015 12:18:23 Europe/Madrid] PHP Notice:  Array to string conversion in C:\www\escano110\propuestas.php on line 18
+[13-Mar-2015 12:55:29 Europe/Madrid] PHP Warning:  require(check_user.inc.php): failed to open stream: No such file or directory in C:\www\escano110\administracion\votos.php on line 11
+[13-Mar-2015 12:55:29 Europe/Madrid] PHP Fatal error:  require(): Failed opening required 'check_user.inc.php' (include_path='.;C:\php\pear') in C:\www\escano110\administracion\votos.php on line 11
+[18-Mar-2015 13:05:26 Europe/Madrid] PHP Notice:  Undefined index: respuesta in C:\www\escano110\_logic\item_avotable_miniatura.class.php on line 36
+[18-Mar-2015 13:05:26 Europe/Madrid] PHP Notice:  Undefined index: respuesta in C:\www\escano110\_logic\item_avotable_miniatura.class.php on line 36
+[18-Mar-2015 13:24:35 Europe/Madrid] PHP Notice:  Undefined property: stdClass::$fecha_aceptada in C:\www\escano110\_logic\item_avotable_base.class.php on line 14
+[18-Mar-2015 16:05:20 Europe/Madrid] PHP Notice:  Object of class column_select could not be converted to int in C:\www\escano110\_logic\avotable.class.php on line 127
+[18-Mar-2015 16:32:45 Europe/Madrid] PHP Catchable fatal error:  Object of class column_datetime could not be converted to string in C:\www\escano110\propuestas.php on line 21
+[18-Mar-2015 20:13:04 Europe/Madrid] PHP Fatal error:  Call to undefined method columns_collection::get_data() in C:\www\escano110\_logic\avotable.class.php on line 165
+[18-Mar-2015 20:15:39 Europe/Madrid] PHP Notice:  Undefined property: fw_user::$username in C:\www\escano110\_logic\email_cambio_estado.class.php on line 30
+[18-Mar-2015 20:29:49 Europe/Madrid] PHP Notice:  Undefined variable: messsage in C:\www\escano110\_fastweb\src\email.class.php on line 43
+[18-Mar-2015 20:31:55 Europe/Madrid] PHP Fatal error:  Call to a member function get_nivel() on a non-object in C:\www\escano110\_logic\email_cambio_estado.class.php on line 130
+[18-Mar-2015 20:33:05 Europe/Madrid] PHP Fatal error:  Call to a member function get_nivel() on a non-object in C:\www\escano110\_logic\email_cambio_estado.class.php on line 130
+[18-Mar-2015 21:13:48 Europe/Madrid] PHP Notice:  Undefined variable: effectiveDate in C:\www\escano110\_logic\avotable.class.php on line 144
+[19-Mar-2015 16:14:49 Europe/Madrid] PHP Notice:  Undefined index: id in C:\www\escano110\administracion\cron.php on line 16
+[19-Mar-2015 16:15:16 Europe/Madrid] PHP Catchable fatal error:  Argument 1 passed to email_cambio_estado::set_logro() must be an instance of logro, string given, called in C:\www\escano110\administracion\cron.php on line 22 and defined in C:\www\escano110\_logic\email_cambio_estado.class.php on line 18
+[19-Mar-2015 16:15:35 Europe/Madrid] PHP Warning:  Attempt to assign property of non-object in C:\www\escano110\administracion\cron.php on line 24
+[19-Mar-2015 16:15:35 Europe/Madrid] PHP Fatal error:  Call to a member function save() on a non-object in C:\www\escano110\administracion\cron.php on line 25
+[19-Mar-2015 16:18:29 Europe/Madrid] PHP Fatal error:  Call to undefined method email_cambio_estado::send_logro() in C:\www\escano110\administracion\cron.php on line 24
+[20-Mar-2015 19:24:48 Europe/Madrid] PHP Fatal error:  Call to undefined method avotable_data::save() in C:\www\escano110\administracion\cron.php on line 32
+[20-Mar-2015 20:06:27 Europe/Madrid] PHP Warning:  Attempt to assign property of non-object in C:\www\escano110\administracion\cron.php on line 34
+[23-Mar-2015 13:16:03 Europe/Madrid] PHP Notice:  Undefined property: column_url::$e in C:\www\escano110\_fastweb\src\columns\column_url.class.php on line 14
+[23-Mar-2015 13:16:03 Europe/Madrid] PHP Notice:  Undefined property: column_url::$e in C:\www\escano110\_fastweb\src\columns\column_url.class.php on line 14
+[23-Mar-2015 13:16:03 Europe/Madrid] PHP Notice:  Undefined property: column_url::$e in C:\www\escano110\_fastweb\src\columns\column_url.class.php on line 14
+[23-Mar-2015 13:16:25 Europe/Madrid] PHP Notice:  Undefined property: column_url::$e in C:\www\escano110\_fastweb\src\columns\column_url.class.php on line 14
+[23-Mar-2015 13:16:25 Europe/Madrid] PHP Notice:  Undefined property: column_url::$e in C:\www\escano110\_fastweb\src\columns\column_url.class.php on line 14
+[23-Mar-2015 13:16:25 Europe/Madrid] PHP Notice:  Undefined property: column_url::$e in C:\www\escano110\_fastweb\src\columns\column_url.class.php on line 14
+[23-Mar-2015 13:52:33 Europe/Madrid] PHP Notice:  Undefined property: ilps::$contrul_group in C:\www\escano110\_logic\ilps.class.php on line 54
+[23-Mar-2015 13:52:33 Europe/Madrid] PHP Fatal error:  Call to a member function add() on a non-object in C:\www\escano110\_logic\ilps.class.php on line 54
+[23-Mar-2015 15:33:56 Europe/Madrid] PHP Fatal error:  Call to undefined method column_select::get_limit_len() in C:\www\escano110\perfil\nueva_ilp.php on line 27
+[23-Mar-2015 15:45:58 Europe/Madrid] PHP Fatal error:  Maximum function nesting level of '100' reached, aborting! in C:\www\escano110\_fastweb\src\columns\column_text\column_text.class.php on line 60
+[23-Mar-2015 15:48:32 Europe/Madrid] PHP Fatal error:  Call to undefined method column_text::get_col_name() in C:\www\escano110\_fastweb\src\columns\column_text\column_text.class.php on line 65
+[23-Mar-2015 15:48:52 Europe/Madrid] PHP Notice:  Undefined property: column_text::$col_name in C:\www\escano110\_fastweb\src\columns\column_text\column_text.class.php on line 65
+[23-Mar-2015 15:54:23 Europe/Madrid] PHP Fatal error:  Call to undefined function str_len() in C:\www\escano110\_fastweb\src\controls\control_group\control_edit.class.php on line 233
+[24-Mar-2015 15:39:41 Europe/Madrid] PHP Fatal error:  Call to undefined method users_register::get_comand_name() in C:\www\escano110\_logic\users_register.class.php on line 67
+[24-Mar-2015 15:41:53 Europe/Madrid] PHP Notice:  Undefined property: web_page::$columns_col in C:\www\escano110\_fastweb\src\controls\control_group.class.php on line 34
+[24-Mar-2015 15:41:53 Europe/Madrid] PHP Fatal error:  Call to a member function get() on a non-object in C:\www\escano110\_fastweb\src\controls\control_group.class.php on line 34
+[24-Mar-2015 16:20:32 Europe/Madrid] mail to:vicenteherrera@vicenteherrera.com from:"Escaño110" <info@escaño110.org> subject:Activación cuenta de usuario
+
+[24-Mar-2015 16:20:32 Europe/Madrid] mail to:vicenteherrera@vicenteherrera.com from:"Escaño110" <info@escaño110.org> subject:Activación cuenta de usuario
+
+[24-Mar-2015 16:20:32 Europe/Madrid] mail to:info@escaño110.org from:"Escaño110" <info@escaño110.org> subject:Activación cuenta de usuario
+
+[24-Mar-2015 16:31:55 Europe/Madrid] PHP Notice:  Undefined variable: img in C:\www\escano110\perfil\profile.inc.php on line 13
+[26-Mar-2015 18:17:44 Europe/Madrid] PHP Warning:  strtolower() expects exactly 1 parameter, 2 given in C:\www\escano110\_logic\item_avotable.class.php on line 93
+[26-Mar-2015 18:17:44 Europe/Madrid] PHP Warning:  substr() expects at least 2 parameters, 1 given in C:\www\escano110\_logic\item_avotable.class.php on line 93
+[26-Mar-2015 18:18:01 Europe/Madrid] PHP Warning:  strtolower() expects exactly 1 parameter, 2 given in C:\www\escano110\_logic\item_avotable.class.php on line 93
+[26-Mar-2015 18:18:01 Europe/Madrid] PHP Warning:  substr() expects at least 2 parameters, 1 given in C:\www\escano110\_logic\item_avotable.class.php on line 93
+[02-Apr-2015 23:50:31 Europe/Madrid] PHP Warning:  Missing argument 2 for filter_ui::get_html_value(), called in C:\www\escano110\_fastweb\src\filter\filter_ui.class.php on line 41 and defined in C:\www\escano110\_fastweb\src\filter\filter_ui.class.php on line 13
+[03-Apr-2015 16:57:14 Europe/Madrid] PHP Fatal error:  Call to undefined method item_avotable_lista::get_fecha_cerrada() in C:\www\escano110\_logic\item_avotable_lista.class.php on line 85
+[03-Apr-2015 16:58:29 Europe/Madrid] PHP Notice:  A non well formed numeric value encountered in C:\www\escano110\_logic\item_avotable_base.class.php on line 72
+[03-Apr-2015 16:58:29 Europe/Madrid] PHP Notice:  A non well formed numeric value encountered in C:\www\escano110\_logic\item_avotable_base.class.php on line 72
+[03-Apr-2015 16:58:29 Europe/Madrid] PHP Notice:  A non well formed numeric value encountered in C:\www\escano110\_logic\item_avotable_base.class.php on line 72
+[03-Apr-2015 16:59:01 Europe/Madrid] PHP Notice:  A non well formed numeric value encountered in C:\www\escano110\_logic\item_avotable_base.class.php on line 72
+[03-Apr-2015 16:59:01 Europe/Madrid] PHP Notice:  A non well formed numeric value encountered in C:\www\escano110\_logic\item_avotable_base.class.php on line 72
+[03-Apr-2015 16:59:01 Europe/Madrid] PHP Notice:  A non well formed numeric value encountered in C:\www\escano110\_logic\item_avotable_base.class.php on line 72
+[03-Apr-2015 17:13:18 Europe/Madrid] PHP Notice:  Undefined variable: d in C:\www\escano110\_logic\item_promotor.class.php on line 23
+[03-Apr-2015 17:13:18 Europe/Madrid] PHP Notice:  Use of undefined constant result - assumed 'result' in C:\www\escano110\_logic\item_promotor.class.php on line 29
+[03-Apr-2015 17:13:18 Europe/Madrid] PHP Notice:  Undefined variable: d in C:\www\escano110\_logic\item_promotor.class.php on line 23
+[03-Apr-2015 17:13:18 Europe/Madrid] PHP Notice:  Use of undefined constant result - assumed 'result' in C:\www\escano110\_logic\item_promotor.class.php on line 29
+[03-Apr-2015 17:13:18 Europe/Madrid] PHP Notice:  Undefined variable: d in C:\www\escano110\_logic\item_promotor.class.php on line 23
+[03-Apr-2015 17:13:18 Europe/Madrid] PHP Notice:  Use of undefined constant result - assumed 'result' in C:\www\escano110\_logic\item_promotor.class.php on line 29
+[03-Apr-2015 17:13:18 Europe/Madrid] PHP Notice:  Undefined variable: d in C:\www\escano110\_logic\item_promotor.class.php on line 23
+[03-Apr-2015 17:13:18 Europe/Madrid] PHP Notice:  Use of undefined constant result - assumed 'result' in C:\www\escano110\_logic\item_promotor.class.php on line 29
+[03-Apr-2015 17:13:18 Europe/Madrid] PHP Notice:  Undefined variable: d in C:\www\escano110\_logic\item_promotor.class.php on line 23
+[03-Apr-2015 17:13:18 Europe/Madrid] PHP Notice:  Use of undefined constant result - assumed 'result' in C:\www\escano110\_logic\item_promotor.class.php on line 29
+[03-Apr-2015 17:13:18 Europe/Madrid] PHP Notice:  Undefined variable: d in C:\www\escano110\_logic\item_promotor.class.php on line 23
+[03-Apr-2015 17:13:18 Europe/Madrid] PHP Notice:  Use of undefined constant result - assumed 'result' in C:\www\escano110\_logic\item_promotor.class.php on line 29
+[03-Apr-2015 17:13:46 Europe/Madrid] PHP Notice:  Use of undefined constant result - assumed 'result' in C:\www\escano110\_logic\item_promotor.class.php on line 29
+[03-Apr-2015 17:13:46 Europe/Madrid] PHP Notice:  Use of undefined constant result - assumed 'result' in C:\www\escano110\_logic\item_promotor.class.php on line 29
+[03-Apr-2015 17:13:46 Europe/Madrid] PHP Notice:  Use of undefined constant result - assumed 'result' in C:\www\escano110\_logic\item_promotor.class.php on line 29
+[03-Apr-2015 17:13:46 Europe/Madrid] PHP Notice:  Use of undefined constant result - assumed 'result' in C:\www\escano110\_logic\item_promotor.class.php on line 29
+[03-Apr-2015 17:13:46 Europe/Madrid] PHP Notice:  Use of undefined constant result - assumed 'result' in C:\www\escano110\_logic\item_promotor.class.php on line 29
+[03-Apr-2015 17:13:46 Europe/Madrid] PHP Notice:  Use of undefined constant result - assumed 'result' in C:\www\escano110\_logic\item_promotor.class.php on line 29

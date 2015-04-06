@@ -1,0 +1,18 @@
+#tree1 {
+	position:absolute;
+	width:200;
+	height: auto;
+	z-index:1;
+	border: 1px dashed #000000;
+	background-color:#66CCFF;
+	left: 400px;
+	top: 100px;
+	visibility: visible;
+	display:block;
+}
+.nodecls {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	text-decoration:none;
+	color:#000000;
+}

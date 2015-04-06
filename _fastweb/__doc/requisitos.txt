@@ -1,0 +1,19 @@
+Requisitos recomendados para el sistema en explotación:
+
+Hopedaje con las siguientes características o mejores:
+ - Lenguaje de programación: PHP 5.2
+ - Base de datos: MySQL Server 5.1
+
+Recomendable al menos 40 Mb de capacidad en ficheros (depende del proyecto).
+Recomendable al menos 20 Mb de capacidad en base de datos (depende del proyecto).
+
+
+Características actuales del proyecto Cuestionario Asma:
+MySQL Server: 5.1.37
+PHP 5.2.8
+Ficheros: 23,9 Mb
+Base de datos: 15 Mb
+
+
+
+
